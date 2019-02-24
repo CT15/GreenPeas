@@ -1,0 +1,6 @@
+framework module Pods_GreenPeas {
+  umbrella header "Pods-GreenPeas-umbrella.h"
+
+  export *
+  module * { export * }
+}
